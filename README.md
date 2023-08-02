@@ -1,1 +1,1 @@
-my first readme
+skill is good
